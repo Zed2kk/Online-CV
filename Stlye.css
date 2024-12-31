@@ -1,0 +1,36 @@
+html{ font-family: "Abel", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #dbd7d9;
+  }
+  #Margin{margin-left: 25px;}
+  #Bold1{font-weight: 1000;
+font-size: x-large;}
+A{color: #dbd7d9;}
+#Header{
+background-color: #3f6654;
+color: #dbd7d9;
+margin-left: 20px;}
+#Header2{border: solid  #3f6654;
+background-color: #3f6654;}
+#hr1{color: #3f6654;
+width: 100%;
+height: 3px;
+background-color: #3f6654;}
+#Bold2{font-size: larger;
+font-weight:600;}
+#Dates1{text-align: right;}
+#Leftside{border: solid #3b270C;
+background-color: #3b270C;
+color: #dbd7d9;
+text-align: left;
+width: 230px;
+height: 1850px;}
+#hr2{width: 200px;
+    margin-left: 0%;}
+    .container {
+        display: flex;
+        align-items: flex-start;
+      }
+      #Bold3{font-weight: bold;}
+   
